@@ -1,7 +1,7 @@
 # Terms of Use
 
 **My Brain Is Full - Crew**
-**Last updated: 2026-03-23**
+**Last updated: 2026-05-14**
 
 By using this software, you agree to the following terms. If you do not agree, do not use the software.
 
